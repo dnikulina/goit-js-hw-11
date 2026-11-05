@@ -54,9 +54,6 @@ npm install
 npm run dev
 ```
 
-## Live Demo
-
-[Open GitHub Pages](https://dashakim2209.github.io/goit-js-hw-11/)
 
 ## Learning Outcomes
 
